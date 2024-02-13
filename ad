@@ -1,0 +1,23 @@
+[33mcommit 5c5b422288aa03e270ebe8b01cfa080f56e9fba7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Aaron <1kookyw1@gmail.com>
+Date:   Fri Feb 9 10:58:03 2024 -0800
+
+    added gradient radial background and blurring to card
+
+[33mcommit a4ab88851fa313c0cff0810f6cddc89b1f7a458d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aaron <1kookyw1@gmail.com>
+Date:   Fri Feb 9 00:24:55 2024 -0800
+
+    created personal profile card with links
+
+[33mcommit c0f5ec81db51fd69044d1c20fd41ed9644f110f0[m
+Author: Aaron <1kookyw1@gmail.com>
+Date:   Tue Feb 6 21:44:37 2024 -0800
+
+    initial commit
+
+[33mcommit 9ca420b032c1ca8e281ec1ff9775b2ec74911cc3[m
+Author: Aaron <1kookyw1@gmail.com>
+Date:   Tue Feb 6 21:37:50 2024 -0800
+
+    Initial commit from Create Next App
