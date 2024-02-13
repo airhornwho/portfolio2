@@ -3,7 +3,7 @@ import React from 'react'
 
 const ProfileCard = () => {
   return (
-    <Card isBlurred isHoverable className="border-none bg-slate-950" shadow="sm">
+    <Card  isHoverable className="border-none bg-default-100/90" shadow="sm">
 			<CardBody>
 				<div className="flex flex-col w-full">
 					<div className="flex justify-center">
